@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: Apache="123.57.249.47_1450702260.539959"; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: SINAGLOBAL="123.57.249.47_1450702260.539956"; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; expires="2038-01-19 03:00:00Z"; version=0
+Set-Cookie3: ULOGIN_IMG="gz-39234dd41112fdd0ab23d64ee5131fb32589"; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; discard; version=0
